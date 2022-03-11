@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: EmersonYFN@gmail.com
+- 📫 How to reach me: Emerson_marinhoaz@hotmail.com
 
 <div align="center">
   <a href="https://github.com/EmersonMarinho">

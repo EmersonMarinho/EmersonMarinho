@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m Studying WebDevelopment at Trybe
 - 📫 How to reach me: Emerson_marinhoaz@hotmail.com
 
 <div align="center">

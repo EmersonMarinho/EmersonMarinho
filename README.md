@@ -1,7 +1,7 @@
 <h2 align="left">Hey, I'm Emerson Marinho (you can call me Emerson) </h2>
 
 - 🔥 I’m a Full Stack Developer;
-- 💻 I working at [MyHiveGlobal](https://myhive.global/br/);
+- 💻 worked at [MyHiveGlobal](https://myhive.global/br/);
 - 🎨 I’ve been working for over 2 years creating custom websites, landing pages, api's, e-commerces and web apps;
 - 🚀 I’m constantly improving my fundamentals developer skills;
 - 👀 I’m open to collaborate on new projects;

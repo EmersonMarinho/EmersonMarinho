@@ -220,4 +220,4 @@
 	</a>
 </p>
 
-![Profile Views]([(https://komarev.com/ghpvc/?username=emersonmarinho&color=blue&style=flat])
+![Profile Views](https://komarev.com/ghpvc/?username=emersonmarinho&color=blue&style=flat)

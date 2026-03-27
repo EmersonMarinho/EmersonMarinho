@@ -205,7 +205,9 @@
 
 |                                                                                                                                                                                                                                                                                                  | Company                       | Duration            | Role                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- | ---------------------- |
-| <a href="https://myhive.global/br/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwaGwKHk3OqiID5EjdU31M8FxrsQRUImEqA&s" width="80" height="80"></a> | **DB1 Group** | Dez 2023 - Feb 2025  | Full Stack Developer |
+| <a href="https://pigz.com.br/" target="_blank"><img src="https://play-lh.googleusercontent.com/a48XN6CgiGtyg2A8Cq9MobK9OPN1M4F90gq74kZ7O-bHSuW4UwGCeNwW3OMNHSMToA=w240-h480-rw" width="80" height="80"></a> | **Orange Labs** |Feb 2026 - Currently | Full Stack Developer |
+
+| <a href="https://myhive.global/br/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwaGwKHk3OqiID5EjdU31M8FxrsQRUImEqA&s" width="80" height="80"></a> || Dez 2023 - Feb 2025  | Full Stack Developer |
 
 🔗 [View full profile on LinkedIn](https://www.linkedin.com/in/emerson-marinho/?originalSubdomain=br)
 

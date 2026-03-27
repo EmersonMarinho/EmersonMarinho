@@ -201,16 +201,36 @@
 	</tr> 
 </table> -->
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
-|                                                                                                                                                                                                                                                                                                  | Company                       | Duration            | Role                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- | ---------------------- |
-| <a href="https://pigz.com.br/" target="_blank"><img src="https://play-lh.googleusercontent.com/a48XN6CgiGtyg2A8Cq9MobK9OPN1M4F90gq74kZ7O-bHSuW4UwGCeNwW3OMNHSMToA=w240-h480-rw" width="80" height="80"></a> | **Orange Labs** |Feb 2026 - Currently | Full Stack Developer |
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://pigz.com.br/" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/a48XN6CgiGtyg2A8Cq9MobK9OPN1M4F90gq74kZ7O-bHSuW4UwGCeNwW3OMNHSMToA=w240-h480-rw" width="80" height="80" alt="Orange Labs logo" />
+      </a>
+    </td>
+    <td>
+      <strong>Orange Labs</strong><br/>
+      <strong>Cargo:</strong> Full Stack Developer<br/>
+      <strong>Período:</strong> Fev 2026 - Atual
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://myhive.global/br/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwaGwKHk3OqiID5EjdU31M8FxrsQRUImEqA&s" width="80" height="80" alt="My Hive Global logo" />
+      </a>
+    </td>
+    <td>
+      <strong>My Hive Global</strong><br/>
+      <strong>Cargo:</strong> Full Stack Developer<br/>
+      <strong>Período:</strong> Dez 2023 - Fev 2025
+    </td>
+  </tr>
+</table>
 
-| <a href="https://myhive.global/br/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwaGwKHk3OqiID5EjdU31M8FxrsQRUImEqA&s" width="80" height="80"></a> || Dez 2023 - Feb 2025  | Full Stack Developer |
-
-🔗 [View full profile on LinkedIn](https://www.linkedin.com/in/emerson-marinho/?originalSubdomain=br)
-
+🔗 [Ver perfil completo no LinkedIn](https://www.linkedin.com/in/emerson-marinho/?originalSubdomain=br)
 ## 🤙🏻 Contact me
 
 <p>
